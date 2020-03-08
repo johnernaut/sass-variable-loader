@@ -16,7 +16,12 @@
     "type": "git",
     "url": "https://github.com/nordnet/sass-variable-loader"
   },
-  "keywords": ["nordnet", "sass", "variable", "loader"],
+  "keywords": [
+    "nordnet",
+    "sass",
+    "variable",
+    "loader"
+  ],
   "author": "Gustaf Zetterlund <gustaf.zetterlund@nordnet.se>",
   "license": "MIT",
   "bugs": {
